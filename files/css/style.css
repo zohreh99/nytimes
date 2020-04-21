@@ -1,0 +1,36 @@
+.mainside-flex{
+	display: flex;
+	margin-top: 1rem;
+	justify-content: space-between;
+
+}
+.leftside{
+	display: flex;
+	margin-left: .5rem;
+
+}
+.rightside{
+	display: flex;
+	margin-right: 1rem;
+}
+.space{
+	padding-left: 1.5rem;
+}
+.centerside{
+	padding-right: 1rem;
+}
+.login{
+	cursor: pointer;
+}
+.buttonlogin{
+	padding-right: 1rem;
+}
+.subscribe{
+	cursor: pointer;
+}
+.menu , .search{
+	padding: .5rem;
+}
+.menu:hover , .search:hover{
+	background-color: #f7f7f7;
+}
